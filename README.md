@@ -1,0 +1,1 @@
+# phpunit-catch-error
